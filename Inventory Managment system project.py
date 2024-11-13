@@ -155,6 +155,6 @@ class InventoryManagementSystem:
             else:
                 print("Invalid choice. Please try again.")
 
-if __name__ == "__main__":  # Correct the main entry point
+if __name__ == "__main__": 
     ims = InventoryManagementSystem()
     ims.run()
